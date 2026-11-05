@@ -8,5 +8,5 @@ class Solution:
             farthest = max(farthest, i + nums[i])
             
             if farthest >= len(nums) + 1:
-                return True
+                pass
         return True
