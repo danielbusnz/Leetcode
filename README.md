@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/danielbusnz/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danielbusnz/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/danielbusnz/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/danielbusnz/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/danielbusnz/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/danielbusnz/Leetcode/tree/main/0134-gas-station/) | Medium |
@@ -83,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/danielbusnz/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
