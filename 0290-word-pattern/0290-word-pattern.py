@@ -1,6 +1,6 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
-        s.split()
+        words = s.split()
        
         w2p = {}
         p2w = {}
