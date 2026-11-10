@@ -1,6 +1,5 @@
 class Solution:
     def insert(self, intervals: list[list[int]], newInterval: list[int]) -> list[list[int]]:
-        
         result = []
 
         for i in range(len(intervals)):
@@ -16,6 +15,5 @@ class Solution:
                     min(newInterval[0], intervals[i][0]),
                     max(newInterval[1], intervals[i][1])
                 ]
-        
         result.append(newInterval)
         return result
