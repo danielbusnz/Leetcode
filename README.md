@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/danielbusnz/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/danielbusnz/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielbusnz/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/danielbusnz/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/danielbusnz/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0169-majority-element](https://github.com/danielbusnz/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0228-summary-ranges](https://github.com/danielbusnz/Leetcode/tree/main/0228-summary-ranges/) | Easy |
@@ -38,12 +39,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/danielbusnz/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/danielbusnz/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danielbusnz/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/danielbusnz/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/danielbusnz/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/danielbusnz/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/danielbusnz/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/danielbusnz/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/danielbusnz/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/danielbusnz/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Sorting
