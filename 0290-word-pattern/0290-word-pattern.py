@@ -7,7 +7,7 @@ class Solution:
         if len(pattern) != len(words):
             return False
         
-        for a,b in zip(pattern,words):
+        for a,b in zip(pattern, words):
             if a in p2w and p2w[a] != b:
                 return False
             if b in w2p and w2p[b] != a:
