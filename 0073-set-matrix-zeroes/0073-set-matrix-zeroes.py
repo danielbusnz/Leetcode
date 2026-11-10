@@ -14,7 +14,7 @@ class Solution:
                 if matrix[r][c] == 0:
                     rows.add(r)
                     cols.add(c)
-                
+    
         for r in range(m):
             for c in range(n):
                 if r in rows or c in cols:
