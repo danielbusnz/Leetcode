@@ -11,9 +11,10 @@ class Solution:
                 result.append(intervals[i])
             
             else:
-                newInterval  =[
+                newInterval= [
                     min(newInterval[0], intervals[i][0]),
                     max(newInterval[1], intervals[i][1])
                 ]
+        
         result.append(newInterval)
         return result
