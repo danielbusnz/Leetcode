@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/danielbusnz/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/danielbusnz/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/danielbusnz/Leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/danielbusnz/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/danielbusnz/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/danielbusnz/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/danielbusnz/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/danielbusnz/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/danielbusnz/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +142,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/danielbusnz/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
