@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/danielbusnz/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/danielbusnz/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/danielbusnz/Leetcode/tree/main/0274-h-index/) | Medium |
+| [0289-game-of-life](https://github.com/danielbusnz/Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/danielbusnz/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,10 +104,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/danielbusnz/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/danielbusnz/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0289-game-of-life](https://github.com/danielbusnz/Leetcode/tree/main/0289-game-of-life/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0289-game-of-life](https://github.com/danielbusnz/Leetcode/tree/main/0289-game-of-life/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
