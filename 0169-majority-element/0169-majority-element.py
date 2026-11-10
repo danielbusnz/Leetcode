@@ -10,5 +10,5 @@ class Solution:
             if num == canidate:
                 count += 1
             else:
-                count -= 1
+                count -=1
         return canidate
