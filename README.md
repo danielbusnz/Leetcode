@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/danielbusnz/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/danielbusnz/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/danielbusnz/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/danielbusnz/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/danielbusnz/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/danielbusnz/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0228-summary-ranges](https://github.com/danielbusnz/Leetcode/tree/main/0228-summary-ranges/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/danielbusnz/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/danielbusnz/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/danielbusnz/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/danielbusnz/Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/danielbusnz/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/danielbusnz/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
