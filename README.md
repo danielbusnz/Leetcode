@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/danielbusnz/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/danielbusnz/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/danielbusnz/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/danielbusnz/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0088-merge-sorted-array](https://github.com/danielbusnz/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/danielbusnz/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0228-summary-ranges](https://github.com/danielbusnz/Leetcode/tree/main/0228-summary-ranges/) | Easy |
