@@ -5,4 +5,4 @@ class Solution:
         if Counter(s) != Counter(t):
             return False
         else:
-            return True 
+            return True
