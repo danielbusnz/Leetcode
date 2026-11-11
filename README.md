@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/danielbusnz/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/danielbusnz/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/danielbusnz/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/danielbusnz/Leetcode/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
