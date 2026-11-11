@@ -3,7 +3,7 @@ class Solution:
         stack = []
 
         for directory in path.split("/"):
-            if directory =="..":
+            if directory == "..":
                 if stack:
                     stack.pop()
             elif directory == "." or directory == "":
@@ -11,5 +11,5 @@ class Solution:
             
             else:
                 stack.append(directory)
-            
+        
         return "/" + "/".join(stack)
