@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/danielbusnz/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/danielbusnz/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/danielbusnz/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/danielbusnz/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/danielbusnz/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielbusnz/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/danielbusnz/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/danielbusnz/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
