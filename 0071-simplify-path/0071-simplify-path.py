@@ -2,11 +2,11 @@ class Solution:
     def simplifyPath(self, path: str) -> str:
         stack = []
 
-        for directory in path.split("/"):
-            if directory == "..":
+        for directory in path:
+            if directory =="..":
                 if stack:
                     stack.pop()
-            elif directory == "." or directory == "":
+            elif directory == "." or directory == "/":
                 continue
             
             else:
