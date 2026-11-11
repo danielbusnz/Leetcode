@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/danielbusnz/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/danielbusnz/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/danielbusnz/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/danielbusnz/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -155,4 +156,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/danielbusnz/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/danielbusnz/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
