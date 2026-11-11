@@ -8,24 +8,24 @@ class Solution:
         for char in s:
             if char.isdigit():
                 number = number * 10 + int(char)
-            
+
             elif char in "+-":
-                result += sign * number
+                result += sign * number 
                 number = 0
                 sign = 1 if char == "+" else -1
             
-            elif char in "(":
+            elif char == "(":
                 stack.append(result)
                 stack.append(sign)
 
                 result = 0
                 sign = 1
             
-            elif char in ")":
-                result += sign*number
+            elif char == ")":
+                result += sign * number
                 number = 0
 
                 result *= stack.pop()
                 result += stack.pop()
-        
+
         return result + sign * number
