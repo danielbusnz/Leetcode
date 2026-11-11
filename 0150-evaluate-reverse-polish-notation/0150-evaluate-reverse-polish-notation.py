@@ -6,8 +6,8 @@ class Solution:
             if token not in ["+", "-", "*", "/"]:
                 stack.append(int(token))
             else:
-                a = stack.pop()
                 b = stack.pop()
+                a = stack.pop()
 
                 if token == "+":
                     stack.append(a+b)
@@ -15,6 +15,6 @@ class Solution:
                     stack.append(a-b)
                 elif token == "*":
                     stack.append(a*b)
-                elif token == "/":
+                if token == "/":
                     stack.append(int(a/b))
         return stack[0]
