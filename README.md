@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/danielbusnz/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/danielbusnz/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/danielbusnz/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/danielbusnz/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/danielbusnz/Leetcode/tree/main/0224-basic-calculator/) | Hard |
@@ -178,4 +179,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/danielbusnz/Leetcode/tree/main/0224-basic-calculator/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/danielbusnz/Leetcode/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/danielbusnz/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
