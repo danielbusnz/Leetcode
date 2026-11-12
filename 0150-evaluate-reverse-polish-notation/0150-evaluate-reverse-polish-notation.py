@@ -3,7 +3,7 @@ class Solution:
         stack = []
 
         for token in tokens:
-            if token not in ["+", "-", "*", "/"]:
+            if token not in ["+","-", "/","*"]:
                 stack.append(int(token))
             else:
                 b = stack.pop()
@@ -13,8 +13,8 @@ class Solution:
                     stack.append(a+b)
                 elif token == "-":
                     stack.append(a-b)
+                elif token == "/":
+                    stack.append(int(a/b))
                 elif token == "*":
                     stack.append(a*b)
-                if token == "/":
-                    stack.append(int(a/b))
         return stack[0]
