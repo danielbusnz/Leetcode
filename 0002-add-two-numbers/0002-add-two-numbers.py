@@ -22,8 +22,8 @@ class Solution:
             curr = curr.next
 
             if l1:
-                l1 = l1.next 
+                l1 = l1.next
             if l2:
                 l2 = l2.next
-        
+            
         return dummy.next
