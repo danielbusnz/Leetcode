@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/danielbusnz/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/danielbusnz/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/danielbusnz/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/danielbusnz/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/danielbusnz/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/danielbusnz/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/danielbusnz/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/danielbusnz/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/danielbusnz/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/danielbusnz/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/danielbusnz/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/danielbusnz/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/danielbusnz/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/danielbusnz/Leetcode/tree/main/0290-word-pattern/) | Easy |
