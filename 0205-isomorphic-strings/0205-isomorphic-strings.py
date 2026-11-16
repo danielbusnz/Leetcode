@@ -1,6 +1,5 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-
         t2s = {}
         s2t = {}
 
