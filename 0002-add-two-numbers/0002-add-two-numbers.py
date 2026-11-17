@@ -20,7 +20,7 @@ class Solution:
 
             current.next = ListNode(digit)
             current = current.next
-
+                
             if l1:
                 l1 = l1.next
             if l2:
