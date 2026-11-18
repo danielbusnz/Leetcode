@@ -7,14 +7,14 @@ class Solution:
     def deleteDuplicates(self, head: ListNode | None) -> ListNode | None:
         dummy = ListNode(0, head)
         current = dummy
-        
+
         while head:
             if head.next and head.val == head.next.val:
                 duplicate = head.val
-
+    
                 while head and head.val == duplicate:
-                    head = head.next
-
+                    head = head.next 
+                
                 current.next = head
             
             else:
@@ -22,3 +22,4 @@ class Solution:
                 head = head.next
 
         return dummy.next
+            
