@@ -11,15 +11,15 @@ class Solution:
         while head:
             if head.next and head.val == head.next.val:
                 duplicate = head.val
-    
+
                 while head and head.val == duplicate:
-                    head = head.next 
-                
+                    head = head.next
+
                 current.next = head
             
             else:
                 current = head
-                head = head.next
 
+                head = head.next
+        
         return dummy.next
-            
